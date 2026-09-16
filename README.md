@@ -15,3 +15,5 @@ sexta subida
 ERROR PRUEBA
 
 SÉPTIMA SUBIDA
+
+Prueba de rollback
